@@ -1,3 +1,4 @@
+# Add by BobbyD
 # Project-Based Data Engineering Learning
 
 Welcome to our open-source project aimed at fostering practical data engineering skills! This project is inspired by the approach of breaking into data engineering with zero cost and a focus on hands-on projects. We will guide you through setting up a real-world data pipeline using modern tools and technologies like Python, BigQuery/Snowflake, and Astronomer. Whether you're a beginner looking to dive into data engineering or an experienced professional aiming to brush up on your skills, this project i...
